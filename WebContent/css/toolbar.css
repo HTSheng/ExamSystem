@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+
+div.word {
+	margin-top: 20px;
+	margin-bottom: 0;
+	margin-left: 50px;
+	font-size: 1.5em;
+	font-family: "microsoft yahei";
+}
+
+div.word img {
+	height: 35px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+div.toolbar ul {
+	height: 40px;
+	margin: 10px 20px;
+	padding: 0;
+	list-style: none;
+	border-top: solid 2px #339900;
+	border-bottom: solid 2px #339900;
+	background-color: #EAF2D3;
+}
+
+div.toolbar ul li {
+	width: 120px;
+	float: left;
+	text-align: center;
+	font: 1em/2.5 "microsoft yahei";
+}
+
+div.toolbar ul li a {
+	color: #000000;
+	text-decoration: none;
+}
+
+div.toolbar ul li a:hover, a:focus {
+	display: block;
+	color: #FFFFFF;
+	background: #98BF21;
+}
+
+div.toolbar ul li img {
+	height: 20px;
+	border: 0;
+	margin: 0 3px;
+	text-align: center;
+	vertical-align: middle;
+}

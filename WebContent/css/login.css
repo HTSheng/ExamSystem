@@ -1,0 +1,83 @@
+@CHARSET "UTF-8";
+
+#login {
+    position: absolute;
+    top: 50%;
+    left:50%;
+    margin: -200px 0 0 -200px;
+    width: 400px;
+    height: 400px;
+    background-color: #EAF2D3;
+}
+
+#login h1 {
+    color: #000000;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 45px;
+}
+
+h1 {   
+    font-size: 1.8em;
+    margin: 0.67em 0;
+}
+
+label {
+	font-size: 1.2em;
+	margin: 0 40px;
+}
+
+input {
+    width: 300px;
+    height: 18px;
+    margin: 10px 40px;
+    outline: none;
+    padding: 10px;
+    font-size: 1em;
+    border-top: 1px solid #312E3D;
+    border-left: 1px solid #312E3D;
+    border-right: 1px solid #312E3D;   
+    border-bottom: 1px solid #56536A;
+    border-radius: 4px;
+}
+
+.btn {
+    width: 320px;
+    min-height: 20px;
+    display: block;
+    background-color: #98BF21;
+    border: 1px solid #98BF21;
+    color: #fff;
+    padding: 9px 14px;
+    font-size: 1.2em;
+    line-height: normal;
+    border-radius: 5px;
+    margin: 20px 40px;
+}
+
+#logout {
+    position: absolute;
+    top: 50%;
+    left:50%;
+    margin: -150px 0 0 -200px;
+    width: 400px;
+    height: 300px;
+    background-color: #EAF2D3;
+}
+
+#logout img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+    height: 80px;
+    margin: 50px auto;
+}
+
+#logout h2 {
+    color: #000000;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 160px;
+}

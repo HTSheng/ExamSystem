@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+
+form {
+	margin-left: 100px;
+	margin-right: 100px;
+	border: 2px solid #98bf21;
+	padding: 10px 10px 10px 10px;
+}
+
+div.bottom {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 10px;
+	text-align: right;
+}
+
+div.header {
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+}
+
+td {
+	padding: 10px 0;
+}
+
+td.label {
+	width: 120px;
+	text-align: right;
+}
+
+input, select, textarea {
+	width: 300px;
+	border: 1px solid #98bf21;
+	padding: 3px 3px 3px 3px;
+}
+
+textarea {
+	height: 100px;
+}

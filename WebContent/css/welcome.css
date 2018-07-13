@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+#welcome {
+    position: absolute;
+    top: 50%;
+    left:50%;
+    margin: -230px 0 0 -330px;
+    width: 660px;
+    height: 350px;
+    background-color: #EAF2D3;
+}
+
+h2 {
+	margin: 40px 40px;
+	text-align: center;
+}
+
+h3 {
+	margin: 20px 40px;
+	text-align: left;
+}
