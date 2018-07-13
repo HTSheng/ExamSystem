@@ -8,3 +8,7 @@
 ## 系统截图
 ![用户登录界面](https://github.com/HTSheng/ExamSystem/blob/master/screenshots/login.png)
 ![用户主页](https://github.com/HTSheng/ExamSystem/blob/master/screenshots/home.png)
+![用户管理界面](https://github.com/HTSheng/ExamSystem/blob/master/screenshots/userList.png)
+![试题管理界面](https://github.com/HTSheng/ExamSystem/blob/master/screenshots/questionList.png)
+![查看试题界面](https://github.com/HTSheng/ExamSystem/blob/master/screenshots/viewQuestion.png)
+![答题界面](https://github.com/HTSheng/ExamSystem/blob/master/screenshots/answer.png)
